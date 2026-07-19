@@ -127,10 +127,3 @@ The Gold layer tables in the Warehouse are exposed through the **SQL Analytics E
 | Inconsistent and messy source data | Applied PySpark transformations in the Silver layer (null handling, deduplication, type casting) |
 | Building an analytics-ready model | Designed a Gold layer star schema before loading into the Warehouse |
 
-
-## 👤 Author
-
-**Bongoni Devendar Goud**
-- GitHub: [Add your GitHub profile link]
-- LinkedIn: [Add your LinkedIn profile link]
-- Email: [Add your email, optional]
